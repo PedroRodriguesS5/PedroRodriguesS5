@@ -51,9 +51,9 @@
 
 ### GitHub Stats ⚡
 <div>
-<a href="https://github.com/PedroR_S">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroR_S&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroR_S&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/PedroRodriguesS5">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroRodriguesS5&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroRodriguesS5&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ### Entre em contato comigo! 📭
