@@ -52,8 +52,8 @@
 ### GitHub Stats ⚡
 <div>
 <a href="https://github.com/PedroRodriguesS5">
-<img height="180em" src="https://github-readme-activity-graph.cyclic.app/graph?username={PedroRodrigueS5}"/>
-<img height="180em" src="https://github-readme-activity-graph.cyclic.app/graph?username={PedroRodrigueS5}&theme={theme_name}"/>
+<img height="180em" src="https://github-readme-activity-graph.cyclic.app/graph?username=PedroRodrigueS5"/>
+<img height="180em" src="https://github-readme-activity-graph.cyclic.app/graph?username=PedroRodrigueS5&theme={dark}"/>
 </div>
 
 ### Entre em contato comigo! 📭
