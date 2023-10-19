@@ -51,9 +51,9 @@
 
 ### GitHub Stats ⚡
 <div>
-<a href="https://bacons.ai/PedroRodriguesS5">
+<a href="https://github.com/PedroRodriguesS5">
 <img height="180em" src="https://github-readme-activity-graph.cyclic.app/graph?username=PedroRodrigueS5"/>
-<img height="180em" src="https://github-readme-activity-graph.cyclic.app/graph?username=PedroRodrigueS5&theme={dracula}"/>
+<img height="180em" src="https://github-readme-activity-graph.cyclic.app/graph?username=PedroRodrigueS5&theme=dracula"/>
 </div>
 
 ### Entre em contato comigo! 📭
