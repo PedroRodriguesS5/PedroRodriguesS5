@@ -1,6 +1,6 @@
 
 # Oi, me chamo [Pedro Rodrigues da Silva] 👋
-# Programador Front-End
+# Programador Back-End
 
 ### Sobre mim
 
