@@ -10,7 +10,7 @@ About
 I have knowledge about... 🔧
 Tools and Techs
 
-[![My Skills](https://skillicons.dev/icons?i=aws,react,js,ts,py,php,azure,docker,go,fastapi,git,github,linux&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,react,js,ts,py,php,azure,docker,go,fastapi,git,github,linux&perline=6)](https://skillicons.dev)
 ### GitHub Stats ⚡
 <div>
 <a href="https://github.com/PedroRodriguesS5">
